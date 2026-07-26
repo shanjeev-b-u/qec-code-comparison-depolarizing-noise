@@ -1,0 +1,6 @@
+{
+  "bf_pstar_bit_observable": null,
+  "bf_pstar_Xonly_check": 0.4999999999966527,
+  "sc_pstar": 0.08278398659713192,
+  "note": "bf_pstar is null because no crossing exists in (0,1) under the bit-observable metric (see paper Sec 4.2)."
+}
